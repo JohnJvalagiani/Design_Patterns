@@ -8,5 +8,6 @@ namespace Design_Pattern
 {
     class Factory
     {
+
     }
 }
