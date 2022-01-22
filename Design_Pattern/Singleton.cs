@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Design_Pattern
 {
-    internal class Factory
+  internal  class Singleton
     {
-
     }
 }
